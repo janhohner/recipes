@@ -1,0 +1,14 @@
+{
+  "id": "clubhouse",
+  "name": "clubhouse",
+  "version": "1.0.0",
+  "description": "Clubhouse recipe for Ferdi",
+  "main": "index.js",
+  "author": "Jan Hohner <me@janhohner.de>",
+  "license": "MIT",
+  "config": {
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "serviceURL": "https://app.clubhouse.io"
+  }
+}
